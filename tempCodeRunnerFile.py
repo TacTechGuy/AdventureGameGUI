@@ -1,0 +1,2 @@
+
+        # Clear the entry box
