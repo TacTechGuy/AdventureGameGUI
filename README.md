@@ -21,7 +21,7 @@ she could interact with it and dictate the outcome based on her choices that she
 
 
 ## Built With
-<img src="https://github.com/TacTechGuy/AdventureGameGUI/blob/master/python-logo-only.png?raw=true" height="50" width="50"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
 
 ## Contact
 
